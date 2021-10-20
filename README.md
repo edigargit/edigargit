@@ -1,7 +1,7 @@
 # Hi there 👋
 
 Olá, visitante!
-Esse github foi criado unica e excçuivamente para treinamento.
+Esse github foi criado unica e excluivamente para treinamento.
 
 **edigargit/edigargit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
